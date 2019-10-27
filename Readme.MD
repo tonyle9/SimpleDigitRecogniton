@@ -1,1 +1,1 @@
-Simple Digi Recognition project
+Simple Digit Recognition project
